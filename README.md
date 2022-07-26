@@ -3,4 +3,4 @@
 
 MY BULLET PROJECT 26.07.2022
 
-![bullet](https://user-images.githubusercontent.com/106864876/181047392-51aab47a-a138-4c60-99a4-48101253e7f0.png)
+
